@@ -8,7 +8,8 @@ Career Resources - Resumes, Interviewing
 
 - [Technical Skills](https://github.com/austinvernsonger/Career-Help/blob/master/Technical-Skills-List.md)
 
-
+#### Job Specific Skills
+- [Software Engineer Skills](https://github.com/austinvernsonger/Career-Help/blob/master/Software_Engineer_Skills.md)
 
 
 
